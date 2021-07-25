@@ -7,7 +7,7 @@ Date created: 7/23/2021
 Last updated: 7/24/2021
 
 ---------------------------------------------------------------------------------------------------------
-Description
+Description:
 ---------------------------------------------------------------------------------------------------------
 Repo contains a Jupyter Notebook file called "HeroesOfPymoli_Analyzer.ipynb"
 
